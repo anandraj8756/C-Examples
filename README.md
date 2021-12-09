@@ -1,2 +1,2 @@
 # Cpp-Examples
-collections of c++ examples.
+collections of c++ examples code.
